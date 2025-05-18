@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Helpers for building pipelines.</Description>
+  </PropertyGroup>
+
+</Project>
